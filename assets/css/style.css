@@ -423,7 +423,7 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.062);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -442,7 +442,7 @@ h6 {
   font-size: 56px;
   font-weight: 700;
   line-height: 64px;
-  color: #fff;
+  color: #FF8C00;
   font-family: "Poppins", sans-serif;
 }
 
